@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AniTop</string>
+    <string name="title_activity_main">AniTop</string>
+    <string name="package_name">com.AniTop.app</string>
+    <string name="custom_url_scheme">com.AniTop.app</string>
+</resources>
